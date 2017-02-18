@@ -15,5 +15,5 @@ If you feel you are being harassed, notice that someone else is being harassed, 
 Our team also accepts that we are not above our own policies so please know all of the above applies to all Indie Olympics organizers as well. Furthermore if there is any aspect of the event, including our communication, artwork, performances, game selection, and event partners, which you feel is offensive or makes you uncomfortable please inform us.
 
 This policy takes cues from the following locations:
-- [geekfeminism.wikia]geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
-- [that.party]that.party/safespaces/
+- [geekfeminism.wikia](geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+- [that.party](that.party/safespaces/)
